@@ -146,6 +146,26 @@ http://www.tooplate.com/view/2106-soft-landing
      BUTTONS               
   -----------------------------------------*/
 
+  .g-recaptcha {
+    background: #1C95ED;
+    color: #fff;
+    border-style: solid;
+    border-color: #0781D9;
+    border-radius: 12px;
+    font-size: 18pt;
+    padding: 12px;
+    width: 320px;
+  }
+
+  .g-recaptcha:hover {
+    background: #20a2ff;
+    border-color: #1C95ED;
+  }
+
+  .g-recaptcha:active {
+    background: #0781D9;
+  }
+
   .section-btn {
     background: #29ca8e;
     border: 0;
