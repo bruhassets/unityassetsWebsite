@@ -94,9 +94,9 @@ http://www.tooplate.com/view/2106-soft-landing
   }
 
   .overlay {
-    background: #536976;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #292E49, #536976);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #292E49, #536976); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #e3e7e9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #030d49, #05517c);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #030d49, #05517c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     opacity: 0.9;
     position: absolute;
     top: 0;
@@ -147,10 +147,10 @@ http://www.tooplate.com/view/2106-soft-landing
   -----------------------------------------*/
 
   .g-recaptcha {
-    background: #1C95ED;
+    background: #192a8a;
     color: #fff;
     border-style: solid;
-    border-color: #0781D9;
+    border-color: #0d1a64;
     border-radius: 12px;
     font-size: 18pt;
     padding: 12px;
@@ -158,12 +158,8 @@ http://www.tooplate.com/view/2106-soft-landing
   }
 
   .g-recaptcha:hover {
-    background: #20a2ff;
-    border-color: #1C95ED;
-  }
-
-  .g-recaptcha:active {
-    background: #0781D9;
+    background: #253ab1;
+    border-color: #192a8a;
   }
 
   .section-btn {
@@ -304,7 +300,7 @@ http://www.tooplate.com/view/2106-soft-landing
     }
 
     .custom-navbar.top-nav-collapse {
-      background: #1f1f1ff1;
+      background: #111947e7;
       -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
